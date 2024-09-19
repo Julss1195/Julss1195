@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning narural language processing
 - 💞️ I’m looking to collaborate on ML projects
 - 📫 How to reach me juliussegbedzi1212@gmail.com / julsegkwe@gmail.com
-- [My Portfolio] ([https://yourportfolio.com](https://www.datacamp.com/datalab/w/9d763df9-4498-413a-8b8b-f6307be40f90/edit)
+- [My Portfolio] (https://www.datacamp.com/datalab/w/9d763df9-4498-413a-8b8b-f6307be40f90/edit) 
 - 😄 Pronouns: He / him
 - ⚡ Fun fact: I love football (soccer) and nature
 
